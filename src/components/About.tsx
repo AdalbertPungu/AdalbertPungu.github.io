@@ -4,9 +4,9 @@ export default function About() {
       <section className="section_about">
         <h2 className="about">About</h2>
         <p className="about__text">
-          I am a Microsoft MVP Windows Insider and Software developer with
-          passion in Web technologies & I using TypeScript/JavaScript. I love
-          Frontend, Open Source and the challenges associated with them.
+          I am a Microsoft MVP and Software developer with passion in Web technologies & 
+          I using TypeScript/JavaScript. I love Frontend, Open Source and the challenges 
+          associated with them.
           <br />
           <br />I like writing, teaching and sharing my knowledge with other
           engineers.
